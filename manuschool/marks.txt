@@ -3,3 +3,4 @@ math 100
 science 100
 social 100
 band 100
+Total: 1000 marks
