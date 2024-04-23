@@ -1,6 +1,6 @@
-english 100
-math 100
-science 100
-social 100
-band 100
-Total: 1000 marks
+english 90
+math 90
+science 90
+social 90
+band 00
+Total: 900 marks
