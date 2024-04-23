@@ -1,3 +1,5 @@
 english 100
 math 100
 science 100
+social 100
+band 100
