@@ -5,3 +5,4 @@ science 100
 social 100
 band 100
 comments - doing good
+Total: 1000 marks
